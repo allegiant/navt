@@ -1,7 +1,6 @@
 name: navicat-keygen builds
 on: workflow_dispatch
 
-
 jobs:
   navicat-keygen-x86:
     runs-on: windows-latest
